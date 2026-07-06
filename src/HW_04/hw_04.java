@@ -4,7 +4,7 @@ public class hw_04 {
 
     public static void main(String[] args) {
 
-        double income = 8000;
+        double income = 8000;  // вставте будь-який дохід для обчислення
         double firstTax = 2.5;
         double secondTax = 4.3;
         double thirdTax = 6.7;
